@@ -1,0 +1,1 @@
+export DB_URL="postgres://admin:password@localhost:81/reviews"
